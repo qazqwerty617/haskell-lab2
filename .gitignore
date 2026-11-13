@@ -1,0 +1,9 @@
+*.o
+*.hi
+*.dyn_o
+*.dyn_hi
+Integral
+.DS_Store
+dist/
+dist-newstyle/
+.ghc.environment.*
